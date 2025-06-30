@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Página carregada com sucesso!');
+    console.log('Sua linda página de recomendação de filmes está online e rosa!');
 });
